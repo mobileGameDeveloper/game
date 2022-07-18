@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cc6d94558b44bf484a3e204cdf18f46, type: 3}
+  m_Name: LevelItemTypes
+  m_EditorClassIdentifier: 
+  green:
+    background: {fileID: 21300000, guid: 0c06820858b7c40b39f50e1ef1f6063a, type: 3}
+    levelItemType: 0
+    LevelItemTypeSting: g
+    point: 0
+  blue:
+    background: {fileID: 21300000, guid: 16c99b173044148d39065affd206d764, type: 3}
+    levelItemType: 1
+    LevelItemTypeSting: b
+    point: 0
+  yellow:
+    background: {fileID: 21300000, guid: 0a78653c32ab94fce827efebbf4cb5cb, type: 3}
+    levelItemType: 2
+    LevelItemTypeSting: y
+    point: 0
+  red:
+    background: {fileID: 21300000, guid: e29a8501ded2548969762b101f5e1c59, type: 3}
+    levelItemType: 3
+    LevelItemTypeSting: r
+    point: 0
+  checkMark:
+    background: {fileID: 21300000, guid: 6eea9fc0ffc6e4cb6b3d7fb8aa19cde7, type: 3}
+    levelItemType: 4
+    LevelItemTypeSting: cm
+    point: 0
